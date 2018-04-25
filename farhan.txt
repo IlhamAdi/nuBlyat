@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class josua{
+public class farhan{
     public static void main(String[] args) {
           int x, y;
           double d;
